@@ -1,10 +1,11 @@
+#dummy commit
 from numpy.random import default_rng
 
 # time horizon in days
 horizon = 10
 # mean daily demand
 mean_demand = 50
-# selling price of the productgggg
+# selling price of the product
 price = 10
 # cost of buying the product
 unit_cost = 5
